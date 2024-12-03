@@ -1,3 +1,13 @@
-FlameGraph/*
+FlameGraph
 *.zip
 .ipynb_checkpoints/*
+res-wq/
+archives/
+baseline
+download-res
+perf*
+sandbox
+sar
+traces
+up-down*
+upload-res
